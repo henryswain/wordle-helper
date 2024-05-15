@@ -1,6 +1,6 @@
 //import './assets/main.css'
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
-import '../node_modules/papaparse/papaparse.js'
+import 'papaparse/papaparse.js'
 
 import { createApp } from 'vue'
 import App from './App.vue'
