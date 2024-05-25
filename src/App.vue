@@ -1,9 +1,6 @@
 <script setup>
-  //<script type="module">
   // Import necessary modules
-  import { ref, onMounted } from 'vue';
-
-
+  import { ref, onMounted } from "vue";
   import papaparse, { BYTE_ORDER_MARK } from 'papaparse';
 
   // Define reactive variables
